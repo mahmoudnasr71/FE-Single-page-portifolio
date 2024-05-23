@@ -27,12 +27,12 @@ export default function App() {
 
   return (
     <>
-      <div className="App">
+      <main className="App">
         <TopHeader />
         <Header isMobile={isMobile} isMobile2={isMobile2} />
         <Skills />
         <Projects isMobile={isMobile} isMobile2={isMobile2} />
-      </div>
+      </main>
       <Contact />
       <SectionLine />
       <div className="footer" style={{ backgroundColor: "#242424" }}>
