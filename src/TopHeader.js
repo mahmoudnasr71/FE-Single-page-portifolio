@@ -10,7 +10,7 @@ export function TopHeader({ bgColor }) {
   return (
     <div className="top-header" style={{ backgroundColor: bgColor }}>
       <div className="top-header-content">
-        <div className="top-name">adamkeyes</div>
+        <h2 className="top-name">adamkeyes</h2>
         <div className="top-social-icons">
           <a
             href="https://github.com"
