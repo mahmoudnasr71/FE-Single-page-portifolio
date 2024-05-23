@@ -18,6 +18,7 @@ export function TopHeader({ bgColor }) {
             rel="noopener noreferrer"
           >
             <GitHubSVG className="svg-icon" />
+            <span class="sr-only">Frontend Mentor</span>
           </a>
           <a
             href="https://frontendmentor.io"
@@ -25,6 +26,7 @@ export function TopHeader({ bgColor }) {
             rel="noopener noreferrer"
           >
             <FrontEndMentorSVG className="svg-icon" />
+            <span class="sr-only">Frontend Mentor</span>
           </a>
           <a
             href="https://twitter.com"
@@ -32,6 +34,7 @@ export function TopHeader({ bgColor }) {
             rel="noopener noreferrer"
           >
             <TwitterSVG className="svg-icon" />
+            <span class="sr-only">Frontend Mentor</span>
           </a>
           <a
             href="https://linkedin.com"
@@ -39,6 +42,7 @@ export function TopHeader({ bgColor }) {
             rel="noopener noreferrer"
           >
             <LinkedInSVG className="svg-icon" />
+            <span class="sr-only">Frontend Mentor</span>
           </a>
         </div>
       </div>
