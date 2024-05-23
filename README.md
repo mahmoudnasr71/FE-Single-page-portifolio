@@ -29,12 +29,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop Version](./screenshot.png)
+![Desktop Version](./Screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/mahmoudnasr71/FE-Single-page-portifolio)
+- Live Site URL: [GithubPages](https://mahmoudnasr71.github.io/FE-Single-page-portifolio/)
 
 ## My process
 
