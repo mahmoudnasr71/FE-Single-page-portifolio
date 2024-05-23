@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/FE-Single-page-portifolio/static/css/main.d40d64cd.css",
-    "main.js": "/FE-Single-page-portifolio/static/js/main.67dd344e.js",
+    "main.css": "/FE-Single-page-portifolio/static/css/main.36d31efb.css",
+    "main.js": "/FE-Single-page-portifolio/static/js/main.b58b47ff.js",
     "static/media/SpaceGrotesk-VariableFont_wght.ttf": "/FE-Single-page-portifolio/static/media/SpaceGrotesk-VariableFont_wght.1036357b9651eff7d3dd.ttf",
     "static/media/SpaceGrotesk-Medium.ttf": "/FE-Single-page-portifolio/static/media/SpaceGrotesk-Medium.dff8d806ce24db6ac483.ttf",
     "static/media/SpaceGrotesk-Bold.ttf": "/FE-Single-page-portifolio/static/media/SpaceGrotesk-Bold.96e001703fcc4898de0e.ttf",
@@ -21,11 +21,11 @@
     "static/media/thumbnail-project-3-small.webp": "/FE-Single-page-portifolio/static/media/thumbnail-project-3-small.951fb216eb344873b374.webp",
     "static/media/thumbnail-project-5-small.webp": "/FE-Single-page-portifolio/static/media/thumbnail-project-5-small.e186a34a955415f41ecd.webp",
     "index.html": "/FE-Single-page-portifolio/index.html",
-    "main.d40d64cd.css.map": "/FE-Single-page-portifolio/static/css/main.d40d64cd.css.map",
-    "main.67dd344e.js.map": "/FE-Single-page-portifolio/static/js/main.67dd344e.js.map"
+    "main.36d31efb.css.map": "/FE-Single-page-portifolio/static/css/main.36d31efb.css.map",
+    "main.b58b47ff.js.map": "/FE-Single-page-portifolio/static/js/main.b58b47ff.js.map"
   },
   "entrypoints": [
-    "static/css/main.d40d64cd.css",
-    "static/js/main.67dd344e.js"
+    "static/css/main.36d31efb.css",
+    "static/js/main.b58b47ff.js"
   ]
 }
